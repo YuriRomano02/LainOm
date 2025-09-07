@@ -1,4 +1,4 @@
-# LainOm - Anime Pink Theme 🌸
+# LainOm - Anime Pink Theme 
 
 A comprehensive anime-inspired pink/magenta theme for Linux desktop environments, featuring a cohesive color palette across multiple applications and window managers.
 
