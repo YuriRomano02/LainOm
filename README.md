@@ -239,6 +239,12 @@ If you encounter issues:
 
 ## 📸 Screenshots
 
+![Theme Preview](preview.png)
+![Theme Preview](preview1.png)
+![Theme Preview](preview2.png) 
+![Theme Preview](preview3.png) 
+![Theme Preview](preview4.png) 
+![Theme Preview](preview5.png) 
 <!-- Add screenshots of each application here -->
 
 ## 🤝 Contributing
